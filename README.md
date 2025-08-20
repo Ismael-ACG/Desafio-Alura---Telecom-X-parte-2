@@ -1,4 +1,4 @@
-# Próposito del proyecto
+# Propósito del proyecto
 
 El objetivo del proyecto fue un caso de estudio en el cual se buscaba establecer un modelo capaz de predecir cuando un cliente puede dar fin a los servicios de la empresa "Telecom X" y abandonarla. Cabe decir que este proyecto fue realizado a través de las bibliotecas "pandas", "matplotlib", "seaborn", "numpy" y "sklearn" (observar archivo para entrar en detalle sobre "sklearn") del lenguaje de programación "python".
 
